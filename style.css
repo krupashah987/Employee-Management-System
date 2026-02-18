@@ -1,0 +1,29 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+}
+
+h2{
+    color: rgb(67, 42, 165);
+}
+
+input, button {
+    padding: 6px;
+    margin: 5px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: center;
+}
+
+button {
+    cursor: pointer;
+}
